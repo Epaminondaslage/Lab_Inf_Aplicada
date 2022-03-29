@@ -1,4 +1,4 @@
-# Lab_Inf_Aplicada
+# Lab-Inf-Aplicada
 Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
 
 <td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="30%" /></td>
