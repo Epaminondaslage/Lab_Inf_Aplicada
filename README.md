@@ -8,11 +8,12 @@ Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 </p>
+
 # Onde encontrar o material didático para download?
 
-<img width="140" alt="image" src="https://user-images.githubusercontent.com/44790000/140447968-44f892b0-42ef-45bb-95c5-7536336bb5d4.png">
+<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/capa%20Apostila%20de%20Inform%C3%A1tica%20Aplicada%202020%20CEFETMG.pdf.png">
 
-<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/1VItHU2oYPvuvF74gkPy_XsWTBEyPUH2B/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
+<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pela Profa. MARIA LUISA PERDIGÃO DIZ RAMOS. Clique <a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/Apostila%20de%20Inform%C3%A1tica%20Aplicada%202020%20CEFETMG.pdf">aqui</a> para baixar a apostila de toda a disciplina.</p>
 <p>Os Slides com  o conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. </p>
 
  # Softwares utilizados na disciplina
