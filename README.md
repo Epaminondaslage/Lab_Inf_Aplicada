@@ -13,9 +13,9 @@ Consiste também em um interpretador. A linguagem e o sistema possuem o mesmo no
 Foi criado em 1990 por pesquisadores do INRIA e da École Nationale des Ponts et Chaussées (França).
 
 The Scilab Team inheritating the expertise of the french research institute INRIA, in computer sciences and automation, is now part of ESI Group
-Disponível como software livre desde 1994 pelo site https://www.scilab.org/download/6.1.0
+Disponível como software livre desde 1994 pelo site https://www.scilab.org/download/scilab-6.1.1
 
-Será apresentado neste curso a versão 6.1.0 do Scilab.
+Será apresentado neste curso a versão 6.1.1 do Scilab.
 
 Epaminondas Lage
 
