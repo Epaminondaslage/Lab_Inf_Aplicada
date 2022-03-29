@@ -101,12 +101,12 @@ Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontr
 <li>Estruturas switch-case.</li>
 </ol>
 <p><strong>UNIDADE 5 &ndash; Prepara&ccedil;&atilde;o e Exibi&ccedil;&atilde;o de Resultados</strong></p>
-<ul>
+<ol>
 <li>Gr&aacute;ficos de fun&ccedil;&otilde;es.</li>
 <li>Armazenamento e recupera&ccedil;&atilde;o de dados.</li>
 <li>Tratamento e an&aacute;lise de dados com recursos de inform&aacute;tica.</li>
 <li>Ajuste de curvas e interpola&ccedil;&atilde;o.</li>
-</ul>
+</ol>
 <p><strong>3 &ndash; Metodologia de Ensino</strong></p>
 <p>Aula Te&oacute;rica. Aula Pr&aacute;tica. Projeto Final de disciplina.</p>
 <p><strong>4 &ndash; Bibliografia</strong></p>
