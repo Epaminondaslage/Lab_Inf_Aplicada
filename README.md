@@ -1,7 +1,16 @@
 # Lab_Inf_Aplicada
 Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
 
-Neste repositório você encontrará todo o material necessário para utilizar o Software Scilab na disciplina.
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="30%" /></td>
+<p><strong><span style="color: #0000ff;">Departamento de Engenharia Elétrica - CEFETMG</span></strong></p>
+<p><strong><span style="color: #0000ff;">Coordenação do Curso de Eletrotécnica</span></strong></p>
+<p><strong><span style="color: #0000ff;">Disciplina Prática de Laboratório de Circuitos Elétricos</span></strong></p>
+<p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
+<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
+</p>
+<p><strong><span style="color: #0000ff;">Agradecimento ao Prof Célio Sérgio Vieira pela elaboração e disponibilização do Guia de Aulas Práticas da Disciplina Prática de Laboratório de Eletrotécnica</span></strong></p>
+<a href="http://lattes.cnpq.br/4432862799465667"> Currículo Lattes VIEIRA, C. S.</a> 
+ </p>
 
 **O que é o Scilab?
 
