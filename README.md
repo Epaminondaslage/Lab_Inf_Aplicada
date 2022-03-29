@@ -21,19 +21,19 @@ Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
 
 Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. 
 
--<p>Unidade I</p>
+- Unidade I
 <p>Clique <a href="https://drive.google.com/file/d/1q___7qTnYohou-l4yrQiOTwkP-q2vrUF/view?usp=sharing">aqui</a> para baixar o ppt da Unid I.</p>
 
--<p>Unidade II</p>
+- Unidade II
 <p>Clique <a href="https://drive.google.com/file/d/1Sumq3BwmtGRSB_Y-Uy6vkS72bJyVcbeg/view?usp=sharing">aqui</a> para baixar o ppt da Unid II.</p>
 
--<p>Unidade III</p>
+- Unidade III
 <p>Clique <a href="https://drive.google.com/file/d/1IeSjpAWy9cIU2YWTBs5C0qpHzSJf2Fih/view?usp=sharing">aqui</a> para baixar o ppt da Unid III.</p>
 
--<p>Unidade IV</p>
+- Unidade IV
 <p>Clique <a href="https://drive.google.com/file/d/16Hc9IPLcn5JwahW8o-xVEaqtpHrBlhgT/view?usp=sharing">aqui</a> para baixar o ppt da Unid IV.</p>
 
--<p>Unidade V</p>
+- Unidade V
 <p>Clique <a href="https://drive.google.com/file/d/1k37OfRTEHQZdhCtZC6EMjN3AmYFOH1J9/view?usp=sharing">aqui</a> para baixar o ppt da Unid V.</p>
 
 - Bibiografia complementar
