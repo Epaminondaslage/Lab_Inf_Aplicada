@@ -17,14 +17,24 @@ Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
 
 <p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pela Profa. MARIA LUISA PERDIGÃO DIZ RAMOS. Clique <a href="https://drive.google.com/file/d/1kixp92zdsBlLGkXjZ22SEAvWzu3ibzb7/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
-- Os Slides  de PPT
+- Apresentação em Power Point de Scilab
 
 Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. 
 
-<p>Unid I</p>
-<p>Unid II</p>
-<p>Unid III</p>
-<p>Unid IV</p>
+-<p>Unidade I</p>
+<p>Clique <a href="https://drive.google.com/file/d/1q___7qTnYohou-l4yrQiOTwkP-q2vrUF/view?usp=sharing">aqui</a> para baixar o ppt da Unid I.</p>
+
+-<p>Unidade II</p>
+<p>Clique <a href="https://drive.google.com/file/d/1Sumq3BwmtGRSB_Y-Uy6vkS72bJyVcbeg/view?usp=sharing">aqui</a> para baixar o ppt da Unid II.</p>
+
+-<p>Unidade III</p>
+<p>Clique <a href="https://drive.google.com/file/d/1IeSjpAWy9cIU2YWTBs5C0qpHzSJf2Fih/view?usp=sharing">aqui</a> para baixar o ppt da Unid III.</p>
+
+-<p>Unidade IV</p>
+<p>Clique <a href="https://drive.google.com/file/d/16Hc9IPLcn5JwahW8o-xVEaqtpHrBlhgT/view?usp=sharing">aqui</a> para baixar o ppt da Unid IV.</p>
+
+-<p>Unidade V</p>
+<p>Clique <a href="https://drive.google.com/file/d/1k37OfRTEHQZdhCtZC6EMjN3AmYFOH1J9/view?usp=sharing">aqui</a> para baixar o ppt da Unid V.</p>
 
 - Bibiografia complementar
 
