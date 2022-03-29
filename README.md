@@ -11,13 +11,13 @@ Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
 
 # Onde encontrar o material didático para download?
 
-O Guia de Aulas Práticas
+- O Guia de Aulas Práticas
 
 <img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/capa%20Apostila%20de%20Inform%C3%A1tica%20Aplicada%202020%20CEFETMG.pdf.png">
 
 <p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pela Profa. MARIA LUISA PERDIGÃO DIZ RAMOS. Clique <a href="https://drive.google.com/file/d/1kixp92zdsBlLGkXjZ22SEAvWzu3ibzb7/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
-Os Slides  de PPT
+- Os Slides  de PPT
 
 Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. 
 
@@ -26,7 +26,7 @@ Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontr
 <p>Unid III</p>
 <p>Unid IV</p>
 
-<p>Bibiografia complementar</p>
+- Bibiografia complementar
 
 <p>FILHO, Frederico F. Campos, Fundamentos de SCILAB, Universidade Federal de Minas Gerais Departamento de Ciência da Computação do ICEx
 , Ed. Agosto de 2010. Clique <a href="https://drive.google.com/file/d/1zBMJ4n3ofCXEyYyTb4FKlseQBUT-OTMz/view?usp=sharing">aqui</a> para baixar a apostila.</p>
