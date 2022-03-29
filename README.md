@@ -22,23 +22,23 @@ Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
 Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. 
 
 - Unidade I
-<img width="120" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20I.pdf%20(p%C3%A1gina%202%20de%2048)%202022-03-29%2019-04-28.png">
+<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20I.pdf%20(p%C3%A1gina%202%20de%2048)%202022-03-29%2019-04-28.png">
 <p>Clique <a href="https://drive.google.com/file/d/1q___7qTnYohou-l4yrQiOTwkP-q2vrUF/view?usp=sharing">aqui</a> para baixar o ppt da Unid I.</p>
 
 - Unidade II
-<img width="120" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20II.pptx.pdf%20(p%C3%A1gina%202%20de%2081)%202022-03-29%2019-04-05.png">
+<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20II.pptx.pdf%20(p%C3%A1gina%202%20de%2081)%202022-03-29%2019-04-05.png">
 <p>Clique <a href="https://drive.google.com/file/d/1Sumq3BwmtGRSB_Y-Uy6vkS72bJyVcbeg/view?usp=sharing">aqui</a> para baixar o ppt da Unid II.</p>
 
 - Unidade III
-<img width="120" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20III.pptx.pdf%20(p%C3%A1gina%202%20de%2034)%202022-03-29%2019-03-37.png">
+<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20III.pptx.pdf%20(p%C3%A1gina%202%20de%2034)%202022-03-29%2019-03-37.png">
 <p>Clique <a href="https://drive.google.com/file/d/1IeSjpAWy9cIU2YWTBs5C0qpHzSJf2Fih/view?usp=sharing">aqui</a> para baixar o ppt da Unid III.</p>
 
 - Unidade IV
-<img width="120" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20IV.pdf%20(p%C3%A1gina%202%20de%20124)%202022-03-29%2019-05-24.png">
+<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20IV.pdf%20(p%C3%A1gina%202%20de%20124)%202022-03-29%2019-05-24.png">
 <p>Clique <a href="https://drive.google.com/file/d/16Hc9IPLcn5JwahW8o-xVEaqtpHrBlhgT/view?usp=sharing">aqui</a> para baixar o ppt da Unid IV.</p>
 
 - Unidade V
-<img width="120" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20IV.pdf%20(p%C3%A1gina%202%20de%20124)%202022-03-29%2019-05-24.png">
+<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20IV.pdf%20(p%C3%A1gina%202%20de%20124)%202022-03-29%2019-05-24.png">
 <p>Clique <a href="https://drive.google.com/file/d/1k37OfRTEHQZdhCtZC6EMjN3AmYFOH1J9/view?usp=sharing">aqui</a> para baixar o ppt da Unid V.</p>
 
 - Bibiografia complementar
