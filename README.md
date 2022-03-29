@@ -13,7 +13,7 @@ Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
 
 <img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/capa%20Apostila%20de%20Inform%C3%A1tica%20Aplicada%202020%20CEFETMG.pdf.png">
 
-<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pela Profa. MARIA LUISA PERDIGÃO DIZ RAMOS. Clique <a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/Apostila%20de%20Inform%C3%A1tica%20Aplicada%202020%20CEFETMG.pdf">aqui</a> para baixar a apostila de toda a disciplina.</p>
+<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pela Profa. MARIA LUISA PERDIGÃO DIZ RAMOS. Clique <a href="https://drive.google.com/file/d/1kixp92zdsBlLGkXjZ22SEAvWzu3ibzb7/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 <p>Os Slides com  o conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. </p>
 
  # Softwares utilizados na disciplina
