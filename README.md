@@ -41,22 +41,86 @@ Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontr
 </tbody>
 </table>
 
-- Unidade II
-<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20II.pptx.pdf%20(p%C3%A1gina%202%20de%2081)%202022-03-29%2019-04-05.png">
-<p>Clique <a href="https://drive.google.com/file/d/1Sumq3BwmtGRSB_Y-Uy6vkS72bJyVcbeg/view?usp=sharing">aqui</a> para baixar o ppt da Unid II.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td colspan="2">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Unidade II</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 32.1053%;"><img src="hhttps://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20II.pptx.pdf%20(p%C3%A1gina%202%20de%2081)%202022-03-29%2019-04-05.png" alt="" width="140" height="100" /></td>
+<td style="width: 67.8947%;">Cique <a href="https://drive.google.com/file/d/1Sumq3BwmtGRSB_Y-Uy6vkS72bJyVcbeg/view?usp=sharing">aqui</a> para baixar o PPT da Unidade II</td>
+</tr>
+</tbody>
+</table>
 
-- Unidade III
-<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20III.pptx.pdf%20(p%C3%A1gina%202%20de%2034)%202022-03-29%2019-03-37.png">
-<p>Clique <a href="https://drive.google.com/file/d/1IeSjpAWy9cIU2YWTBs5C0qpHzSJf2Fih/view?usp=sharing">aqui</a> para baixar o ppt da Unid III.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td colspan="2">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Unidade III</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 32.1053%;"><img src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20III.pptx.pdf%20(p%C3%A1gina%202%20de%2034)%202022-03-29%2019-03-37.png" alt="" width="140" height="100" /></td>
+<td style="width: 67.8947%;">Cique <a href="https://drive.google.com/file/d/1IeSjpAWy9cIU2YWTBs5C0qpHzSJf2Fih/view?usp=sharing">aqui</a> para baixar o PPT da Unidade III</td>
+</tr>
+</tbody>
+</table>
 
-- Unidade IV
-<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20IV.pdf%20(p%C3%A1gina%202%20de%20124)%202022-03-29%2019-05-24.png">
-<p>Clique <a href="https://drive.google.com/file/d/16Hc9IPLcn5JwahW8o-xVEaqtpHrBlhgT/view?usp=sharing">aqui</a> para baixar o ppt da Unid IV.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td colspan="2">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Unidade IV</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 32.1053%;"><img src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20IV.pdf%20(p%C3%A1gina%202%20de%20124)%202022-03-29%2019-05-24.png" alt="" width="140" height="100" /></td>
+<td style="width: 67.8947%;">Cique <a href="https://drive.google.com/file/d/16Hc9IPLcn5JwahW8o-xVEaqtpHrBlhgT/view?usp=sharing">aqui</a> para baixar o PPT da Unidade IV</td>
+</tr>
+</tbody>
+</table>
 
-- Unidade V
-<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20IV.pdf%20(p%C3%A1gina%202%20de%20124)%202022-03-29%2019-05-24.png">
-<p>Clique <a href="https://drive.google.com/file/d/1k37OfRTEHQZdhCtZC6EMjN3AmYFOH1J9/view?usp=sharing">aqui</a> para baixar o ppt da Unid V.</p>
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td colspan="2">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Unidade V</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 32.1053%;"><img src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20IV.pdf%20(p%C3%A1gina%202%20de%20124)%202022-03-29%2019-05-24.png" alt="" width="140" height="100" /></td>
+<td style="width: 67.8947%;">Cique <a href="https://drive.google.com/file/d/1k37OfRTEHQZdhCtZC6EMjN3AmYFOH1J9/view?usp=sharing">aqui</a> para baixar o PPT da Unidade IV</td>
+</tr>
+</tbody>
+</table>
+ 
 - Bibiografia complementar
 
 <p>FILHO, Frederico F. Campos, Fundamentos de SCILAB, Universidade Federal de Minas Gerais Departamento de Ciência da Computação do ICEx
