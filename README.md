@@ -1,10 +1,10 @@
 # Lab-Inf-Aplicada
-Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
+# Disciplina: Laboratório de Informática Aplicada - CEFET MG
 
 <td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="30%" /></td>
 <p><strong><span style="color: #0000ff;">Departamento de Engenharia Elétrica - CEFETMG</span></strong></p>
 <p><strong><span style="color: #0000ff;">Coordenação do Curso de Eletrotécnica</span></strong></p>
-<p><strong><span style="color: #0000ff;">Disciplina  Laboratório de Informática Aplicada</span></strong></p>
+<p><strong><span style="color: #0000ff;">Disciplina: Laboratório de Informática Aplicada</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 </p>
@@ -15,15 +15,31 @@ Conteúdos da Disciplina Laboratório de Informática Aplicada - CEFET MG
 
 <img width="120" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/capa%20Apostila%20de%20Inform%C3%A1tica%20Aplicada%202020%20CEFETMG.pdf.png">
 
-<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pela Profa. MARIA LUISA PERDIGÃO DIZ RAMOS. Clique <a href="https://drive.google.com/file/d/1kixp92zdsBlLGkXjZ22SEAvWzu3ibzb7/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
+<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pela Profa. MARIA LUISA PERDIGÃO RAMOS. Clique <a href="https://drive.google.com/file/d/1kixp92zdsBlLGkXjZ22SEAvWzu3ibzb7/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
 - Apresentação em Power Point de Scilab
 
 Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. 
 
-- Unidade I
-<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20I.pdf%20(p%C3%A1gina%202%20de%2048)%202022-03-29%2019-04-28.png">
-<p>Clique <a href="https://drive.google.com/file/d/1q___7qTnYohou-l4yrQiOTwkP-q2vrUF/view?usp=sharing">aqui</a> para baixar o ppt da Unid I.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td colspan="2">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Unidade I</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 32.1053%;"><img src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20I.pdf%20(p%C3%A1gina%202%20de%2048)%202022-03-29%2019-04-28.png" alt="" width="140" height="100" /></td>
+<td style="width: 67.8947%;">Cique <a href="https://drive.google.com/file/d/1q___7qTnYohou-l4yrQiOTwkP-q2vrUF/view?usp=sharing">aqui</a> para baixar o PPT da Unidade I</td>
+</tr>
+</tbody>
+</table>
 
 - Unidade II
 <img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20II.pptx.pdf%20(p%C3%A1gina%202%20de%2081)%202022-03-29%2019-04-05.png">
