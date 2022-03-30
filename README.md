@@ -130,7 +130,7 @@ Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontr
 </tr>
 <tr>
 <td style="width: 32.1053%;"><img src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Apostila_Fundamentos%20de%20SCILAB-Frederico%20F.%20Campos%20FILHO.png" alt="" width="140" height="100" /></td>
-<td style="width: 67.8947%;">FILHO, Frederico F. Campos, Fundamentos de SCILAB, Universidade Federal de Minas Gerais Departamento de Ci&ecirc;ncia da Computa&ccedil;&atilde;o do ICEx , Ed. Agosto de 2010. Clique <a href="https://drive.google.com/file/d/1zBMJ4n3ofCXEyYyTb4FKlseQBUT-OTMz/view?usp=sharing">aqui</a> para baixar a apostila.</td>
+<td style="width: 67.8947%;">FILHO, Frederico F. Campos, FUNDAMENTOS DE SCILAB, Universidade Federal de Minas Gerais Departamento de Ci&ecirc;ncia da Computa&ccedil;&atilde;o do ICEx , Edição Agosto de 2010. Clique <a href="https://drive.google.com/file/d/1zBMJ4n3ofCXEyYyTb4FKlseQBUT-OTMz/view?usp=sharing">aqui</a> para baixar a apostila.</td>
 </tr>
 </tbody>
 </table>
@@ -142,7 +142,7 @@ Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontr
 </tr>
 <tr>
 <td style="width: 32.1053%;"><img src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/APOSTILA%20DE%20LOGICA%20APLICADO%20A%20SCILAB-INSTITUTO%20FEDERAL%20DE%20EDUCACAO%20CIENCIA%20E%20TECNOLOGIA%20CATARINENSE%20%E2%80%93%20CAMPUS%20LUZERNA.png" alt="" width="140" height="100" /></td>
-<td style="width: 67.8947%;">APOSTILA DE LÓGICA APLICADO A SCILAB ,Instituto federal de Educação, Ciência e Tecnologia Catarinense – CÂMPUS LUZERNA. Clique <a href="https://drive.google.com/file/d/1GP8qyMvgIux13rwsjVH8vTJywOr1-Alw/view?usp=sharing">aqui</a> para baixar a apostila.</td>
+<td style="width: 67.8947%;">APOSTILA DE LÓGICA APLICADO A SCILAB ,Instituto Federal de Educação, Ciência e Tecnologia Catarinense – Câmpus Luzerna. Clique <a href="https://drive.google.com/file/d/1GP8qyMvgIux13rwsjVH8vTJywOr1-Alw/view?usp=sharing">aqui</a> para baixar a apostila.</td>
 </tr>
 </tbody>
 </table>
