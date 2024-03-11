@@ -20,6 +20,7 @@
 - Apresentação em Power Point de Scilab
 
 Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. 
+## Apresentações atualizadas em Janeiro de 2024 ##
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
