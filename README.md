@@ -57,7 +57,7 @@ Os conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontr
 </tr>
 <tr>
 <td style="width: 32.1053%;"><img src="https://github.com/Epaminondaslage/Lab_Inf_Aplicada/blob/main/img/Informatica%20Aplicada%20-%20ScilLab%20Unid%20II.pptx.pdf%20(p%C3%A1gina%202%20de%2081)%202022-03-29%2019-04-05.png" alt="" width="140" height="100" /></td>
-<td style="width: 67.8947%;">Cique <a href="https://drive.google.com/file/d/10TpbYhizc5jU6pR9X4pfHiM9VSwRXnT2/view?usp=sharing">aqui</a> para baixar o PPT da Unidade II</td>
+<td style="width: 67.8947%;">Cique <a href="https://drive.google.com/file/d/1pR-S0HVBl0Bj8V00fOaiz6WsNBn6LSNU/view?usp=sharing">aqui</a> para baixar o PPT da Unidade II</td>
 </tr>
 </tbody>
 </table>
